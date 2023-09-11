@@ -14,7 +14,7 @@ class ListNode(object):
         self.next = next
 
 
-def mergeTwoLists(self, list1, list2):
+def mergeTwoLists(list1, list2):
     """
     :type list1: Optional[ListNode]
     :type list2: Optional[ListNode]
