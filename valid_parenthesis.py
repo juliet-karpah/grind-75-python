@@ -23,7 +23,6 @@ def valid_parenthesis(s):
             if(len(stack) > 0):  
                 rem = stack.pop()
                 if op.index(rem) != close.index(el):
-                    print(rem, el)
                     return False
             else:
                 return False
