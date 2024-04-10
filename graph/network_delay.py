@@ -1,7 +1,7 @@
 """
 https://leetcode.com/problems/network-delay-time/description/
 """
-def networkDelayTime(self, times, n, k):
+def networkDelayTime( times, n, k):
     """
     :type times: List[List[int]]
     :type n: int
